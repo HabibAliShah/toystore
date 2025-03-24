@@ -1,2 +1,2 @@
 # URI-project
-Project: Restaurant Management System
+Project: Toystore
